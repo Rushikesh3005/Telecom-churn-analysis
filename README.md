@@ -35,3 +35,9 @@ Total night minutes:- Total Number of Minutes Spent By Customers in the Night.
 Total night calls :-Total Number of Calls made by Customer in Night.
 
 Total night charge:- Total Charge to the Customers in Night.
+
+# Conclusion:
+
+After analysis of the data it is conclude that the as customer service call getting increases the percentage of that account getting churned is increases.
+
+Company should give promise that We will probably resolve your problem in first attempt if not possible then politely take some time and resolve that problem in that time so customer will stay with company.
