@@ -41,3 +41,5 @@ Total night charge:- Total Charge to the Customers in Night.
 After analysis of the data it is conclude that the as customer service call getting increases the percentage of that account getting churned is increases.
 
 Company should give promise that We will probably resolve your problem in first attempt if not possible then politely take some time and resolve that problem in that time so customer will stay with company.
+
+The customer having International plans are getting churned as compared to the customers having no international plan so it might be due to high charges on international calls so company should try to minimise the international calls charges.
